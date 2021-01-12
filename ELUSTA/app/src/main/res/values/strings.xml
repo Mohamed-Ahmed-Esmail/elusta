@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ELUSTA</string>
+    <string name="errRequiredField">Required</string>
+    <string name="network_error">net error</string>
+    <string name="Password_Error">Password_Error</string>
+    <string name="Username_Error">Username_Error</string>
+</resources>
