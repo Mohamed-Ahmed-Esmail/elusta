@@ -33,6 +33,7 @@ public class ElustaActivityTest {
     public ActivityTestRule<ElustaActivity> elustaActivityActivityTestRule =
             new ActivityTestRule<>(ElustaActivity.class);
 
+
     @Test
     public void recycleTest() {
 
